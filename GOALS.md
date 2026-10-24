@@ -8,8 +8,9 @@
 
 | Thing | Value | Source |
 | --- | --- | --- |
-| Public repos | 4 | [github.com/fastpresspages](https://github.com/fastpresspages) |
+| Public repos | 5 | [github.com/fastpresspages](https://github.com/fastpresspages) |
 | Flagship release | LaunchGrade v0.1.0 | [release](https://github.com/fastpresspages/launchgrade/releases/tag/v0.1.0) |
+| Launch template | FastPress Start v1.0.0 | [live demo](https://fastpresspages.github.io/fastpress-start/) |
 | Test suite | 11/11 passing | `node --test` in the LaunchGrade repo |
 | Live LaunchGrade score | A+ 100/100 | [dated report](https://fastpresspages.github.io/launchgrade/samples/youlauncher/report.html) |
 | Announced paid partnerships | 0 | This is a fact, not a failure. Do not invent one. |

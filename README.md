@@ -9,7 +9,7 @@
 [![Fake metrics](https://img.shields.io/badge/fake_metrics-0-FFB020?labelColor=08080A)](GOALS.md)
 [![Living document](https://img.shields.io/badge/status-living_document-A78BFA?labelColor=08080A)](docs/launch-plan.md)
 
-[LaunchGrade](https://fastpresspages.github.io/launchgrade/) · [YouLauncher](https://fastpresspages.github.io/YouLauncher/) · [Hire page](https://fastpresspages.github.io/hire-me/) · [Org profile](https://github.com/fastpresspages)
+[LaunchGrade](https://fastpresspages.github.io/launchgrade/) · [FastPress Start](https://fastpresspages.github.io/fastpress-start/) · [YouLauncher](https://fastpresspages.github.io/YouLauncher/) · [Hire page](https://fastpresspages.github.io/hire-me/) · [Org profile](https://github.com/fastpresspages)
 
 </div>
 

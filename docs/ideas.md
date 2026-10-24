@@ -6,7 +6,7 @@ Ranking is by **usefulness × distribution ÷ effort**, not by how fun it is to 
 
 | # | Idea | Effort | Distribution | Verdict |
 | --- | --- | --- | --- | --- |
-| 1 | **FastPress Start** — zero-build launch-page template | 3 days | High: forkable, visual, solves a real first step | Build next |
+| 1 | **FastPress Start** — zero-build launch-page template | 3 days | High: forkable, visual, solves a real first step | **Shipped 24 Oct 2026** |
 | 2 | **Public teardown library** — dated before/after audits | 1 day each | High: specific, shareable, SEO | Start with 3 |
 | 3 | **LaunchGrade Action on Marketplace** | 1 day | High: GitHub-native, recurring use | Do now |
 | 4 | **Agent-ready report** — how AI crawlers see your page | 3 days | Medium-high: timely, technical | After template |
@@ -149,6 +149,6 @@ Ranking is by **usefulness × distribution ÷ effort**, not by how fun it is to 
 
 ## What to build next
 
-If only one thing gets built this month: **FastPress Start**. It is visible, forkable, useful before someone has a launch, and it can be audited with the tool we already have.
+**FastPress Start is live:** [fastpresspages.github.io/fastpress-start](https://fastpresspages.github.io/fastpress-start/), with a dated A+ 100/100 audit. The next build candidate is the **Agent-ready report**, because it reuses checks that already exist and has a clearer story than another general template.
 
 If only one thing gets distributed this month: **three public teardowns**. They prove the method better than any thread.
