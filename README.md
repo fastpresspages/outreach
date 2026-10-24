@@ -32,6 +32,17 @@ It is public because the plan is not the moat. The work is.
 | [docs/social-copy.md](docs/social-copy.md) | X thread, Show HN, Product Hunt, Reddit, LinkedIn and Indie Hackers copy. |
 | [docs/targets.md](docs/targets.md) | Communities, directories, awesome lists and newsletters worth a careful pitch. |
 | [docs/measurement.md](docs/measurement.md) | A scorecard that does not require tracking pixels. |
+| [skills/fastpress-goals/SKILL.md](skills/fastpress-goals/SKILL.md) | An installable agent skill for honest weekly reviews and next-action planning. |
+
+## Use the goals skill
+
+The field guide ships as an agent skill. It walks an assistant through a weekly or 90-day review: collect real artifacts, update the scorecard with sourced numbers, flag stale claims, and pick one smallest next action.
+
+```bash
+npx skills add fastpresspages/outreach
+```
+
+Then ask your agent for a weekly review. It reads [GOALS.md](GOALS.md) and [docs/measurement.md](docs/measurement.md) instead of inventing progress.
 
 ## The 90-day bet
 
