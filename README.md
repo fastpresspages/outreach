@@ -28,6 +28,7 @@ It is public because the plan is not the moat. The work is.
 | [GOALS.md](GOALS.md) | What "working" means in the next 90 days, with honest baselines and weekly review questions. |
 | [docs/ideas.md](docs/ideas.md) | 12 open-source ideas ranked by usefulness, effort and distribution. |
 | [docs/launch-plan.md](docs/launch-plan.md) | A 30-day launch plan, including a one-hour-a-day version. |
+| [docs/teardowns.md](docs/teardowns.md) | Public teardowns of four fresh Show HN launches (24 Oct 2026), with pattern analysis and a removal policy. |
 | [docs/outreach-emails.md](docs/outreach-emails.md) | Eight templates for audits, collaborations, sponsors, podcasts and paid work. |
 | [docs/deals.md](docs/deals.md) | A practical ladder from free audit to paid work, with scopes, pricing starting points and red flags. |
 | [docs/social-copy.md](docs/social-copy.md) | X thread, Show HN, Product Hunt, Reddit, LinkedIn and Indie Hackers copy. |
@@ -47,7 +48,7 @@ Then ask your agent for a weekly review. It reads [GOALS.md](GOALS.md) and [docs
 
 ## The 90-day bet
 
-LaunchGrade is the flagship: a free, zero-dependency CLI that grades a launch page across 53 checks. The bet is simple:
+LaunchGrade is the flagship: a free, zero-dependency CLI that grades a launch page across 54 checks. The bet is simple:
 
 1. **Give away the diagnosis.** The scan, the checklist, the reports and the source are free.
 2. **Earn the conversation.** A specific, useful audit is a better opener than a cold pitch.

@@ -44,7 +44,7 @@ Pitch a **specific segment**, not "please feature my tool". No audience-size cla
 
 | Where | Angle |
 | --- | --- |
-| [JavaScript Weekly](https://javascriptweekly.com/) | "A zero-dependency Node CLI with 53 checks and a fixture for each one." |
+| [JavaScript Weekly](https://javascriptweekly.com/) | "A zero-dependency Node CLI with 54 checks and a fixture for each one." |
 | [Node Weekly](https://nodeweekly.com/) | "What I learned shipping a zero-dep CLI on Node 18/20/22." |
 | [Frontend Focus](https://frontendfoc.us/) | "The launch-page checks most front-end teams skip." |
 | [Bytes](https://bytes.dev/) | A short, useful tip with a before/after, not a product announcement. |

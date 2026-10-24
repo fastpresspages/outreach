@@ -7,7 +7,7 @@
 **1/**
 I built a free CLI that grades a launch page in about 60 seconds.
 
-53 checks. 7 categories. Zero dependencies.
+54 checks. 7 categories. Zero dependencies.
 
 No account. No paid API. No "book a demo".
 
@@ -94,7 +94,7 @@ No fake urgency. No countdown.
 >
 > The first scan of my own page scored B- 71/100. The fixes became the roadmap; the rebuilt page scored A+ 100/100 with one deliberate warning (no analytics). Both reports are public.
 >
-> What it does: fetches the page (and robots.txt, sitemap.xml, llms.txt, security.txt), runs 53 checks, weights them, and prints a grade plus the highest-impact fixes. It can also write HTML/Markdown/JSON reports, an SVG badge and a fix plan.
+> What it does: fetches the page (and robots.txt, sitemap.xml, llms.txt, security.txt), runs 54 checks, weights them, and prints a grade plus the highest-impact fixes. It can also write HTML/Markdown/JSON reports, an SVG badge and a fix plan.
 >
 > What it does not do: measure real conversion, replace a security review, or guarantee rankings. It is a heuristic, and the checks are public so you can disagree with them.
 >
@@ -112,7 +112,7 @@ No fake urgency. No countdown.
 
 **Description:**
 
-> LaunchGrade is a free, zero-dependency CLI that scans a public launch page across 53 checks in 7 categories: conversion, trust, technical, SEO, social, accessibility and AI-agent readiness.
+> LaunchGrade is a free, zero-dependency CLI that scans a public launch page across 54 checks in 7 categories: conversion, trust, technical, SEO, social, accessibility and AI-agent readiness.
 >
 > Run one command. Get a letter grade, category scores and the fixes that matter most. Export a terminal summary, Markdown, JSON, a standalone HTML report or an SVG badge. Add it to GitHub Actions or call it from an MCP client.
 >
@@ -134,7 +134,7 @@ No fake urgency. No countdown.
 
 > I kept seeing launch pages with a clear offer and no trust signals. So I built a small open-source checker.
 >
-> It runs 53 checks across conversion, trust, technical, SEO, social, accessibility and agent readiness. It gives a grade and the top fixes, not a dashboard.
+> It runs 54 checks across conversion, trust, technical, SEO, social, accessibility and agent readiness. It gives a grade and the top fixes, not a dashboard.
 >
 > The first page I scanned was mine: B- 71/100. No privacy page, no OG image, no llms.txt. I fixed it and published both reports.
 >
@@ -150,7 +150,7 @@ No fake urgency. No countdown.
 >
 > It also checks agent-readability: llms.txt, markdown negotiation, AI crawler rules, semantic HTML.
 >
-> 53 checks, 7 categories, no runtime dependencies. Apache-2.0. Source and fixtures: [link]
+> 54 checks, 7 categories, no runtime dependencies. Apache-2.0. Source and fixtures: [link]
 >
 > I am more interested in missing/wrong checks than in stars.
 
@@ -176,7 +176,7 @@ No fake urgency. No countdown.
 >
 > The next scan: **A+ 100/100**, with one deliberate warning because the page has no analytics.
 >
-> I turned the checklist into a free, zero-dependency CLI: 53 checks across conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. Apache-2.0. No account, no telemetry.
+> I turned the checklist into a free, zero-dependency CLI: 54 checks across conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. Apache-2.0. No account, no telemetry.
 >
 > The lesson is not "get an A+". It is that trust is made of small, checkable things. If you cannot show the source, do not put it on the page.
 >
@@ -202,7 +202,7 @@ No fake urgency. No countdown.
 
 ## dev.to / Hashnode
 
-**Title:** `53 checks, zero dependencies: how LaunchGrade audits a launch page`
+**Title:** `54 checks, zero dependencies: how LaunchGrade audits a launch page`
 
 Outline:
 

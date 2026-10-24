@@ -8,10 +8,11 @@
 
 | Thing | Value | Source |
 | --- | --- | --- |
-| Public repos | 5 | [github.com/fastpresspages](https://github.com/fastpresspages) |
-| Flagship release | LaunchGrade v0.1.0 | [release](https://github.com/fastpresspages/launchgrade/releases/tag/v0.1.0) |
+| Public repos | 6 | [github.com/fastpresspages](https://github.com/fastpresspages) |
+| Flagship release | LaunchGrade v0.3.0 | [release](https://github.com/fastpresspages/launchgrade/releases/tag/v0.3.0) |
+| Community contributions | 1 merged outside check (PR #12 by @klingesh, v0.3.0) | [PR #12](https://github.com/fastpresspages/launchgrade/pull/12) |
 | Launch template | FastPress Start v1.0.0 | [live demo](https://fastpresspages.github.io/fastpress-start/) |
-| Test suite | 11/11 passing | `node --test` in the LaunchGrade repo |
+| Test suite | 18/18 passing | `node --test` in the LaunchGrade repo |
 | Live LaunchGrade score | A+ 100/100 | [dated report](https://fastpresspages.github.io/launchgrade/samples/youlauncher/report.html) |
 | Announced paid partnerships | 0 | This is a fact, not a failure. Do not invent one. |
 | Newsletter / list | None | There is no list. Do not pretend there is. |
@@ -25,7 +26,7 @@ These are targets, not claims. Update the "current" column with a date and a sou
 | 1 | **10 completed human audits** | Proves the free offer is useful and creates real conversations. | 0 |
 | 2 | **3 substantive collaboration conversations** | One useful partner beats 100 followers. | 0 |
 | 3 | **1 paid pilot scoped in writing** | Tests whether the free work can become a business. | 0 |
-| 4 | **2 public teardowns** | Distribution with a receipt; shows the method, not just the tool. | 0 |
+| 4 | **2 public teardowns** | Distribution with a receipt; shows the method, not just the tool. | **1 published series with 4 scans on 24 Oct 2026** — [docs/teardowns.md](docs/teardowns.md) |
 | 5 | **20 pieces of specific feedback** | Tells us which checks, reports and words are confusing. | 0 |
 | 6 | **1 repeatable offer page** | Turns "email me" into a clear scope, price range and timeline. | not built |
 | 7 | **0 fake metrics** | The one target that can never be traded away. | holding |
