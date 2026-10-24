@@ -149,6 +149,8 @@ Ranking is by **usefulness × distribution ÷ effort**, not by how fun it is to 
 
 ## What to build next
 
-**FastPress Start is live:** [fastpresspages.github.io/fastpress-start](https://fastpresspages.github.io/fastpress-start/), with a dated A+ 100/100 audit. The next build candidate is the **Agent-ready report**, because it reuses checks that already exist and has a clearer story than another general template.
+**FastPress Start is live:** [fastpresspages.github.io/fastpress-start](https://fastpresspages.github.io/fastpress-start/), with a dated A+ 100/100 audit.
+
+**RepoGrade (project 7) is live instead of a new template:** [fastpresspages/repograde](https://github.com/fastpresspages/repograde) shipped on 24 Oct 2026 — the repo-side twin of LaunchGrade (33 checks: docs, community, engineering, discoverability, release hygiene, agent-readiness). Dogfood: **A+ 99/100** on its own repo; LaunchGrade-audited site at **A+ 100/100**. Both projects feed each other and both share the same zero-dep philosophy; the "Agent-ready report" idea above is covered by RepoGrade's agent-ready category (AGENTS.md / skills / MCP / llms.txt checks), so that slot is closed.
 
 If only one thing gets distributed this month: **three public teardowns**. They prove the method better than any thread.

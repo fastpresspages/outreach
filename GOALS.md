@@ -8,8 +8,9 @@
 
 | Thing | Value | Source |
 | --- | --- | --- |
-| Public repos | 6 | [github.com/fastpresspages](https://github.com/fastpresspages) |
+| Public repos | 7 | [github.com/fastpresspages](https://github.com/fastpresspages) |
 | Flagship release | LaunchGrade v0.3.0 | [release](https://github.com/fastpresspages/launchgrade/releases/tag/v0.3.0) |
+| Repo tool | RepoGrade v0.1.0 — dogfood A+ 99/100 | [release](https://github.com/fastpresspages/repograde/releases/tag/v0.1.0) |
 | Community contributions | 1 merged outside check (PR #12 by @klingesh, v0.3.0) | [PR #12](https://github.com/fastpresspages/launchgrade/pull/12) |
 | Launch template | FastPress Start v1.0.0 | [live demo](https://fastpresspages.github.io/fastpress-start/) |
 | Test suite | 18/18 passing | `node --test` in the LaunchGrade repo |
