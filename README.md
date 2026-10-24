@@ -29,6 +29,7 @@ It is public because the plan is not the moat. The work is.
 | [docs/ideas.md](docs/ideas.md) | 12 open-source ideas ranked by usefulness, effort and distribution. |
 | [docs/launch-plan.md](docs/launch-plan.md) | A 30-day launch plan, including a one-hour-a-day version. |
 | [docs/outreach-emails.md](docs/outreach-emails.md) | Eight templates for audits, collaborations, sponsors, podcasts and paid work. |
+| [docs/deals.md](docs/deals.md) | A practical ladder from free audit to paid work, with scopes, pricing starting points and red flags. |
 | [docs/social-copy.md](docs/social-copy.md) | X thread, Show HN, Product Hunt, Reddit, LinkedIn and Indie Hackers copy. |
 | [docs/targets.md](docs/targets.md) | Communities, directories, awesome lists and newsletters worth a careful pitch. |
 | [docs/measurement.md](docs/measurement.md) | A scorecard that does not require tracking pixels. |
