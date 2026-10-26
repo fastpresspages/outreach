@@ -8,13 +8,14 @@
 
 | Thing | Value | Source |
 | --- | --- | --- |
-| Public repos | 9 | [github.com/fastpresspages](https://github.com/fastpresspages) |
+| Public repos | 10 | [github.com/fastpresspages](https://github.com/fastpresspages) |
 | Flagship release | LaunchGrade v0.3.0 | [release](https://github.com/fastpresspages/launchgrade/releases/tag/v0.3.0) |
 | Repo tool | RepoGrade v0.1.0 — dogfood A+ 99/100 | [release](https://github.com/fastpresspages/repograde/releases/tag/v0.1.0) |
 | Community contributions | 1 merged outside check (PR #12 by @klingesh, v0.3.0) | [PR #12](https://github.com/fastpresspages/launchgrade/pull/12) |
 | Launch template | FastPress Start v1.0.0 | [live demo](https://fastpresspages.github.io/fastpress-start/) |
 | Paid storefront | Agency page live — LaunchGrade A+ 100, 12 priced services | [agency](https://fastpresspages.github.io/agency/) |
 | Placement hub | Placement Kit live — 51 verified free links, A+ 100 | [placement](https://fastpresspages.github.io/placement/) |
+| Agent skills | FastPress Skills v0.1.0 — 3 skills, read-only scripts | [release](https://github.com/fastpresspages/skills/releases/tag/v0.1.0) |
 | Test suite | 18/18 passing | `node --test` in the LaunchGrade repo |
 | Live LaunchGrade score | A+ 100/100 | [dated report](https://fastpresspages.github.io/launchgrade/samples/youlauncher/report.html) |
 | Announced paid partnerships | 0 | This is a fact, not a failure. Do not invent one. |
