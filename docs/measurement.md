@@ -63,9 +63,35 @@ Track stars and clones if they are useful, but label them **distribution signals
 - If you publish a teardown, use a public URL and public information only. No private dashboard screenshots.
 - Delete contact messages when they are no longer needed. See the privacy pages for the exact promise.
 
+## Day-0 GitHub traffic baseline (14-day ending 26 Oct 2026)
+
+Pulled from the GitHub traffic API (owner-only data, real numbers). This is a baseline, not a trend.
+
+| Repo | Views (uniques) | Clones (uniques) |
+| --- | --- | --- |
+| launchgrade | 11 (4) | 402 (108) |
+| repograde | 0 (0) | 82 (30) |
+| fastpress-start | 0 (0) | 34 (22) |
+| youlauncher | 1 (1) | 75 (43) |
+| hire-me | 0 (0) | 63 (31) |
+| outreach | 0 (0) | 74 (42) |
+| .github | 0 (0) | 120 (62) |
+| agency | 0 (0) | 0 (0) |
+| placement | 0 (0) | 0 (0) |
+| skills | 0 (0) | 0 (0) |
+
+How to read this honestly:
+
+- The absolute numbers are tiny. Treat them as plumbing, not interest.
+- The traffic API cannot separate our own automation (CI clones on every push, our own audit fetches) from other people. A 402-clone count on launchgrade in two weeks almost certainly includes many of our own CI runs. Do not quote "402 clones" as traction.
+- The agency, placement and skills repos shipped on 26 Oct, so their zeros are just age.
+- What would actually matter: a rising view count on days we did not ship anything, or clones that keep growing for two weeks without pushes. Watch for that, not the raw totals.
+- Re-pull this same table weekly (Free, owner-only Insights). Add one row per week below; keep old rows for comparison.
+
 ## Monthly review
 
 1. Which channel produced the most **replies**, not the most impressions?
+
 2. Which artifact is still getting links or replies a week later?
 3. Which offer made people ask "how much?" That is a buying signal.
 4. Which task felt busy but produced no artifact or conversation? Stop it.
